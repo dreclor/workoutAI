@@ -1,5 +1,12 @@
 # workoutAI
 
+
+Our url has a lot of data and is too long to copy and paste, so please find a link to our project in the google doc linked below:
+https://docs.google.com/document/d/1n7vguFAgYPcaiiuNH5vELqSXRtSPUveNaT_99RFfjd8/edit?usp=sharing
+
+
+
+
 Inspiration
 All three of us come from extensive athletic backgrounds, where regular workouts are an integral part of our daily life. After talking to many people on campus and doing our research on beginning workout plans, we realized that simply_starting_a_regime is the biggest hurdle when beginning to train. To combat this, we created an applet in the new You.com developer environment that creates a custom workout for the user to take to the gym, eliminating the heavy lifting before the heavy lifting.
 
